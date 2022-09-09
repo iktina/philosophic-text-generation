@@ -1,4 +1,4 @@
-# philosophic-text-generation
+# Philosophic Text Generation
 Philosophic Text Generation service for SingularityNET
 ## Welcome
 ## What’s the point?

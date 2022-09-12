@@ -21,6 +21,6 @@ Example of output file content:
 
 ## What to expect from this service?
 ### Inputs:
-```{"start_text": What can I}```
+```{"start_text": "What can I"}```
 ### Outputs:
-```{"result": What can I do, in the presence of a young woman, who, in the crisis I have described, has her eyes fixed upon her mouth; I ask why she is so pale? The young woman is very puzzled. I ask why this is so. Is she not very much in love?}```
+```{"result": "What can I do, in the presence of a young woman, who, in the crisis I have described, has her eyes fixed upon her mouth; I ask why she is so pale? The young woman is very puzzled. I ask why this is so. Is she not very much in love?"}```
